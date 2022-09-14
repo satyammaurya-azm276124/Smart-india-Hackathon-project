@@ -1,0 +1,101 @@
+People_ID,GENDER,AGE,INCOME,BANK_ACCOUNT,Domecile,Schemes1
+1,1,30,100000,1,1,grant scheme for marriage of daughter of poor people
+2,0,40,150000,0,1,Atal Pension Yojna
+3,1,56,200000,1,4,grant scheme for marriage of daughter of poor people
+4,1,67,200000,1,1,grant scheme for marriage of daughter of poor people
+5,1,28,20000,1,4,grant scheme for marriage of daughter of poor people
+6,1,59,210000,1,3,grant scheme for marriage of daughter of poor people
+7,1,69,230000,1,1,grant scheme for marriage of daughter of poor people
+8,0,23,150000,1,1,Atal Pension Yojna
+9,0,36,50000,0,1,Atal Pension Yojna
+10,0,25,5000,1,3,Atal Pension Yojna
+11,0,43,10000,1,3,Atal Pension Yojna
+12,0,33,20000,1,4,Atal Pension Yojna
+13,0,34,20000,1,2,Atal Pension Yojna
+14,0,37,30000,0,2,Atal Pension Yojna
+15,0,20,40000,1,3,Atal Pension Yojna
+16,0,21,43000,1,2,Atal Pension Yojna
+17,1,34,34000,1,4,grant scheme for marriage of daughter of poor people
+18,0,23,49000,1,4,Atal Pension Yojna
+19,1,45,123000,1,1,grant scheme for marriage of daughter of poor people
+20,0,31,39000,1,1,Atal Pension Yojna
+21,1,66,3900,0,0,grant scheme for marriage of daughter of poor people
+22,1,78,40000,0,0,grant scheme for marriage of daughter of poor people
+23,1,45,30000,0,1,grant scheme for marriage of daughter of poor people
+24,1,77,39800,0,3,grant scheme for marriage of daughter of poor people
+25,1,23,34900,0,3,grant scheme for marriage of daughter of poor people
+26,1,56,21000,0,3,grant scheme for marriage of daughter of poor people
+27,0,39,50000,0,4,Atal Pension Yojna
+28,0,34,10000,0,1,Atal Pension Yojna
+29,0,21,20000,0,1,Atal Pension Yojna
+30,0,43,30000,1,0,Atal Pension Yojna
+31,1,78,40000,1,3,grant scheme for marriage of daughter of poor people
+32,1,90,60000,1,1,grant scheme for marriage of daughter of poor people
+33,0,78,591234,1,2,Atal Pension Yojna
+34,0,78,45000,1,2,Atal Pension Yojna
+35,1,89,43503,1,3,grant scheme for marriage of daughter of poor people
+36,1,45,78940,1,1,grant scheme for marriage of daughter of poor people
+37,0,34,45899,1,2,Atal Pension Yojna
+38,1,55,45637,1,1,grant scheme for marriage of daughter of poor people
+39,0,67,47890,0,3,Atal Pension Yojna
+40,1,23,32634,1,3,grant scheme for marriage of daughter of poor people
+41,1,23,36783,1,4,grant scheme for marriage of daughter of poor people
+42,0,21,56789,1,2,Atal Pension Yojna
+43,1,21,34256,1,2,grant scheme for marriage of daughter of poor people
+44,0,22,67859,1,2,Atal Pension Yojna
+45,1,43,47586,1,0,grant scheme for marriage of daughter of poor people
+46,1,60,36487,1,0,grant scheme for marriage of daughter of poor people
+47,0,45,36588,1,0,Atal Pension Yojna
+48,1,43,58692,1,1,grant scheme for marriage of daughter of poor people
+49,0,34,37485,1,1,Atal Pension Yojna
+50,0,33,48599,1,1,Atal Pension Yojna
+51,0,23,48599,1,1,Atal Pension Yojna
+52,1,22,384885,1,3,grant scheme for marriage of daughter of poor people
+53,0,44,68699,1,4,Atal Pension Yojna
+54,1,45,64758,1,2,grant scheme for marriage of daughter of poor people
+55,1,35,475886,1,1,grant scheme for marriage of daughter of poor people
+56,1,43,3748,1,0,grant scheme for marriage of daughter of poor people
+57,1,21,374784,1,2,grant scheme for marriage of daughter of poor people
+58,0,45,485995,1,1,Atal Pension Yojna
+59,0,67,37488,1,1,Atal Pension Yojna
+60,0,90,48589,1,1,Atal Pension Yojna
+61,0,23,37488,1,2,Atal Pension Yojna
+62,0,45,37488,1,2,Atal Pension Yojna
+63,0,67,37488,1,3,Atal Pension Yojna
+64,1,43,37488,1,4,grant scheme for marriage of daughter of poor people
+65,1,34,58690,1,0,grant scheme for marriage of daughter of poor people
+66,0,56,34889,1,0,Atal Pension Yojna
+67,1,77,37489,1,1,grant scheme for marriage of daughter of poor people
+68,1,34,2368,1,0,grant scheme for marriage of daughter of poor people
+69,0,45,4858,1,2,Atal Pension Yojna
+70,1,43,3748,1,1,Atal Pension Yojna
+71,1,22,9033,1,2,grant scheme for marriage of daughter of poor people
+72,1,12,48959,1,1,grant scheme for marriage of daughter of poor people
+73,1,21,58999,1,1,grant scheme for marriage of daughter of poor people
+74,1,23,4895,0,0,grant scheme for marriage of daughter of poor people
+75,1,56,67748,0,0,grant scheme for marriage of daughter of poor people
+76,0,78,58694,0,0,Atal Pension Yojna
+77,1,54,43848,0,1,grant scheme for marriage of daughter of poor people
+78,1,32,4859,1,1,grant scheme for marriage of daughter of poor people
+79,1,45,28488,1,1,grant scheme for marriage of daughter of poor people
+80,1,47,48559,1,2,grant scheme for marriage of daughter of poor people
+81,1,48,4858,1,2,grant scheme for marriage of daughter of poor people
+82,1,39,48748,1,2,grant scheme for marriage of daughter of poor people
+83,1,48,4758,1,2,grant scheme for marriage of daughter of poor people
+84,0,56,636,1,1,Atal Pension Yojna
+85,0,63,2424,1,1,Atal Pension Yojna
+86,0,23,6997,1,0,Atal Pension Yojna
+87,0,56,4858,1,0,Atal Pension Yojna
+88,0,56,485885,1,2,Atal Pension Yojna
+89,1,56,96969,0,0,grant scheme for marriage of daughter of poor people
+90,1,43,599696,0,1,grant scheme for marriage of daughter of poor people
+91,0,45,74795,1,2,Atal Pension Yojna
+92,1,45,37447,1,1,grant scheme for marriage of daughter of poor people
+93,1,34,88884,0,2,grant scheme for marriage of daughter of poor people
+94,1,55,37848,0,1,grant scheme for marriage of daughter of poor people
+95,1,45,47585,1,0,grant scheme for marriage of daughter of poor people
+96,1,45,4884,1,0,grant scheme for marriage of daughter of poor people
+97,1,56,47585,1,1,grant scheme for marriage of daughter of poor people
+98,1,45,48858,1,2,grant scheme for marriage of daughter of poor people
+99,1,45,48585,1,1,grant scheme for marriage of daughter of poor people
+100,1,20,5858,1,0,grant scheme for marriage of daughter of poor people

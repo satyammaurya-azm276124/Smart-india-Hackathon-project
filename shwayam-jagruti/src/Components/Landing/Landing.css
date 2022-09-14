@@ -1,0 +1,307 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+}
+.scheme {
+  padding: 80px 20px 30px 20px;
+  font-family: sans-serif;
+  font-weight: 800;
+  margin-left:30px;
+  
+}
+.scheme h1 {
+  font-size: 40px;
+  text-align: center;
+}
+h1.heading {
+  text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
+  text-align: left;
+
+
+}
+.eligibility {
+  font-size: 28px;
+  color: black;
+  background-color: #ffd24c;
+  border-color: #000000;
+  border-radius: 30px;
+  font-weight: 600;
+  box-shadow: 8px 8px #000000;
+}
+
+.eligibility:hover {
+  background-color: #fdc828;
+  color: black;
+  transform: scale(1.02);
+  border-color: #000000;
+  box-shadow: 8px 8px #000000;
+  
+}
+
+.img-section {
+  padding: 50px 0px 30px 80px;
+
+}
+img.landing-img {
+  width:70%;
+}
+
+.scheme-box{
+  margin-bottom: 60px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-radius: 30px;
+  box-shadow: 12px 12px #000000;
+
+}
+
+.scheme-state{
+  border-radius: 30px;
+}
+
+.scheme-selection-item{
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-bottom:20px;
+  width: 90%;
+  border-radius: 30px;
+}
+
+.scheme-selection-item-2{
+  margin-left: 40px;
+  width: 90%;
+}
+
+.scheme-selection-item-3{
+  margin-left: 40px;
+  width: 90%;
+}
+
+.scheme-box-row {
+  margin-top: 20px;
+}
+.selection-box{
+  margin-top: 30px;
+}
+.scheme-box-img img {
+  align-items: center;
+  width: 60%;
+  margin-bottom: 50px;
+}
+.scheme-box-submit {
+  align-items: center;
+  margin-top: 40px;
+}
+.top-scheme-heading h1 {
+  font-size: 40px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 8px 8px #000000;
+  border-radius: 30px;
+  background-color: #d9d9d9;
+}
+
+.top-scheme-heading h4{
+  margin-top: 20px;
+}
+.top-scheme-heading {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.top-scheme-row {
+  margin-top: 30px;
+}
+.scheme-body {
+  text-align: center;
+  background-color: #d9d9d9;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 8px 8px #000000;
+}
+
+.top-scheme-cards{
+  width: 200px;
+  height: 150px;
+  margin:60px;
+  
+  align-items: center;
+  
+  
+}
+
+.ts-img{
+  width: 200px;
+  height: 300px;
+}
+
+.ts-body{
+  height: 150px;
+  width: 150px;
+  
+}
+
+.ts-body h6{
+  font-size: 17px;
+}
+
+.card-title {
+  font-size: 35px;
+}
+.scheme-card-text{
+  margin-top: 20px;
+  font-size: 20px;
+  border-radius: 15px;
+  background-color: #fffefe;
+  padding: 8px;
+  text-align:justify;
+  color: #000000;
+}
+
+.Footer-pre {
+  margin: 50px 0px 0px 0px;
+  border-top-left-radius: 15px;
+  border-top-right-radius:15px ;
+  width: auto;
+  height: 50px;
+  background-color: #ffd24c;
+}
+
+.Footer-Section {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;  
+  margin: 0px 0px 0px 0px;
+  background-color: #ffe69a;
+}
+
+.card-top{
+    margin-bottom: 20px;
+}
+.card-body{
+    background-color:#D9D9D9;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 10px #888888;}
+
+.Footer-Section a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.Footer-Section a:hover {
+  text-decoration: underline;
+
+}
+
+.hr-line-footer {
+  width: 100%;
+  height: 3px;
+  background-color: rgb(0, 0, 0);
+  margin: 0px 0px 0px 0px;
+}
+
+.Footer-item {
+  margin: 0%;
+}
+/* ------- carusel ----*/
+.carousel-button{
+  background-color:#92B4EC;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.carousel-inner{
+  border-radius: 30px;
+  border:#000000;
+}
+/*==== how to use =====*/
+.how-to-use{
+  margin-top: 30px;
+}
+.how-to-use h6{
+  margin:20px;
+}
+.how-to-use-card{
+  max-width: 25rem;
+  background-color: white;
+  height: 12rem;
+  margin-bottom: 30px;
+  align-items: center;
+  margin-right: 30px;
+  align-items: center;
+}
+
+.card-text{
+  text-align: center;
+  font-weight: 500;
+}
+img.card-img-top{
+  max-width: 5rem;
+align-items: center;
+margin-left: 80px;}
+
+h3{
+  text-align: center;
+  font-weight:400;
+  font-size: 50px;
+}
+h6{
+  font-size: 20px;
+  text-align:center;
+}
+h5{
+  font-size: 15px;
+}
+.how-to-use-card-body{
+  background-color: white;
+  box-shadow: none;
+
+}
+/*========== about us ===========*/
+.about{
+  margin: 30px 50px 30px 50px;
+  font-family: 'Outfit',sans-serif;
+}
+
+.about span{
+  margin-left: 10px;
+}
+
+.about-heading{
+  font-size:30px;
+  font-weight:600;
+  color: rgb(12, 165, 204);
+}
+.about-para{
+  margin-top: 20px;
+}
+p.para-text{
+  font-weight: 400;
+  font-family:outfit;
+  color: #000000;
+}
+
+.faq-section{
+  padding: 25px 150px 25px 150px;
+  
+  font-weight:400;
+  color: #000000;
+}
+.aboutImage{
+  width:80%;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  padding: 0px 10px 0px 40px;
+}
+.aboutButton{
+ 
+  background-color: #ebdfdf;
+  color:black;
+  
+}
+h5.card-title{
+  text-align: center;
+
+}

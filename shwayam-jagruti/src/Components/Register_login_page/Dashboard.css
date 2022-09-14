@@ -1,0 +1,75 @@
+.name{
+    color:white
+}
+.imageContainer{
+    display: flex;
+    justify-content: center;
+    margin-top:5%;
+}
+.profileDashboard{
+    border-right: 2px solid gray; 
+    background:url(https://image.freepik.com/free-photo/dark-background_1048-3848.jpg);
+    background-size:cover; 
+    background-repeat:no-repeat;
+    min-height: 100vh;
+    
+}
+
+.line
+{
+    width: 100%;
+    height: 2px;
+    background-color:white;
+    margin-bottom: 20px;
+}
+.H1
+{
+    color: aqua;
+    text-align: left;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.profile{
+    width:40%;
+    height:90%;
+    border-radius: 100%;
+}
+.imageContainer1{
+    display: flex;
+   justify-content: center
+}
+.accountImage{
+    width:12%;
+    height:12%;
+
+}
+.quotes{
+    
+    align-items: center;
+    background-image: linear-gradient(black,rgb(4, 23, 54), wheat);
+    padding:30px;
+    
+}
+.changePassword{
+    cursor: pointer;
+    width:50%;
+}
+
+.changePasswordImage{
+    width:14%;
+    height:14%;
+}
+.change{
+  font-weight: bold;
+  font-size: 18px;
+ 
+}
+.footer{
+    text-align: center;
+    background-color:rgb(94, 93, 90);
+    color:white;
+   
+}
